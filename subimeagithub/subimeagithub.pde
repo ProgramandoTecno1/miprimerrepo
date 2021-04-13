@@ -5,7 +5,7 @@ void setup(){
 }
 void draw(){
  background(0);
- text("¡Subime a GitHub por favor! |:",width/12,valorY);
+ text("¡Gracias por subirme a GitHub! :)",width/12,valorY);
  valorY--;
  if(valorY < 0){
    valorY = 200;
